@@ -62,3 +62,13 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 ## License
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+
+
+//This is symple immunization system created wit laravel
+
+to run this project create a database called immunization
+ and then run
+ 
+ php artisan serve in the terminal to run the serve
+ 
+ visit the url on you browser and you are good to go
